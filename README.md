@@ -59,12 +59,9 @@ git remote add origin https://github.com/tejasvk2007-ops/portfolio.git
 git push -u origin main
 ```
 
-## Deploy free on Vercel
+## Vercel Link:
 
-1. Go to vercel.com and sign in with GitHub.
-2. **Add New → Project → Import** the `portfolio` repo.
-3. Leave the defaults (Framework: Next.js) and click **Deploy**.
-4. Copy the live URL (e.g. `https://portfolio-xxxx.vercel.app`) and add it to the repo README and your GitHub profile.
+- https://portfolio-brown-six-j4zwrg42i8.vercel.app/
 
 ## Notes
 
