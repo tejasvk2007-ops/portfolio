@@ -1,0 +1,1 @@
+{"dependencies":{"lucide-react":"^0.454.0","next":"14.2.5","react":"18.3.1","react-dom":"18.3.1","three":"^0.187.0"},"description":"Personal Portfolio Website for Tejas V K — Assignment-1 (Next.js + React)","name":"tejas-v-k-portfolio","private":true,"scripts":{"build":"next build","dev":"next dev","lint":"next lint","start":"next start"},"version":"1.0.0"}
